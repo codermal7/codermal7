@@ -1,4 +1,4 @@
-![logo](https://github.com/codermal7/codermal7/blob/main/GIT%20HUB%20BANNER.png)
+![logo](https://github.com/codermal7/codermal7/blob/main/GIT%20HUB%20BANNER2.png)
 <h1 align="center">Hi 👋, I'm Anuj Kumar Pandey</h1>
 <h3 align="center">A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
