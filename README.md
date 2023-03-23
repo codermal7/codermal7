@@ -34,7 +34,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermal7&show_icons=true&locale=en&layout=compact" alt="codermal7" /></p> -->
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en&theme=dark" alt="codermal7" /></p><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" /></p><br><br>
 
 <!-- [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true)](https://github.com/codermal7/github-readme-stats) -->
 
