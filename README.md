@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar Pandey</h1>
 <h3 align="center">A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
-<img align="right" alt="Coding" width="400" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow">
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermal7&label=Profile%20views&color=0e75b6&style=flat" alt="codermal7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/not_ur_anuj" target="blank"><img src="https://img.shields.io/twitter/follow/not_ur_anuj?logo=twitter&style=for-the-badge" alt="not_ur_anuj" /></a> </p>
@@ -19,6 +17,8 @@
 
 <br>
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow">
+
 <p align="left">
 <a href="https://twitter.com/not_ur_anuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_ur_anuj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuj-kumar-pandey-6151a81b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-pandey-6151a81b5" height="30" width="40" /></a>
