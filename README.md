@@ -15,10 +15,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CkhHepZTELtVSnmcuunZcsXX_wECkdgK/view?usp=sharing](https://drive.google.com/file/d/1CkhHepZTELtVSnmcuunZcsXX_wECkdgK/view?usp=sharing)
 
+<img align="right" width="400" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow">
+
 <br>
 <h3 align="left">Connect with me:</h3>
-<img align="right" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow">
-
 <p align="left">
 <a href="https://twitter.com/not_ur_anuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_ur_anuj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuj-kumar-pandey-6151a81b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-pandey-6151a81b5" height="30" width="40" /></a>
