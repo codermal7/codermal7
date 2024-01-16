@@ -43,4 +43,4 @@
 <!-- [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true)](https://github.com/codermal7/github-readme-stats) -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codermal7&" alt="codermal7" /></p> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codermal7&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" />
