@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pandeyanuj1804@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CkhHepZTELtVSnmcuunZcsXX_wECkdgK/view?usp=sharing](https://drive.google.com/file/d/1CkhHepZTELtVSnmcuunZcsXX_wECkdgK/view?usp=sharing)
+- 📄 Checkout my website [https://drive.google.com/file/d/1CkhHepZTELtVSnmcuunZcsXX_wECkdgK/view?usp=sharing](anujkumarpandey.com)
 <!-- <br>
 <img align="right" width="400" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow"> -->
 
