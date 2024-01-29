@@ -2,8 +2,7 @@
 ![logo](https://github.com/codermal7/codermal7/blob/main/PBM02003.JPG?raw=true)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer ![image](https://github.com/codermal7/codermal7/assets/83698322/a5f81b93-768c-482b-86a3-25241f5a62e5)
-;ML+Enthusiast;Passionate+Coder!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer 👨🏻‍💻;I'm+a+ML+Enthusiast 🤖🧠;I'm+a+Passionate+Coder 👨‍💻;" />
 </h1>
 
 <h3 align="center">A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
