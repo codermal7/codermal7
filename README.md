@@ -2,8 +2,8 @@
 ![logo](https://github.com/codermal7/codermal7/blob/main/PBM02003.JPG?raw=true)
 
 <h1 align="center">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" /> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=70&pause=2&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer;ML+Enthusiast;Passionate+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=70&pause=2&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer;ML+Enthusiast;Passionate+Coder" alt="Typing SVG" /> -->
 </h1>
 
 <h3 align="center">A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
