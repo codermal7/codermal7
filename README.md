@@ -5,7 +5,7 @@
      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer+👨🏻‍💻;I'm+a+ML+Enthusiast+🤖+🧠;I'm+a+Passionate+Coder+👨‍💻;" />
 </h1>
 
-<h3 align="center">A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
+<h3 align="center" font=Fira+Code>A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
