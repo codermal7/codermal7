@@ -1,6 +1,7 @@
 <!-- ![logo](https://github.com/codermal7/codermal7/blob/main/GIT%20HUB%20BANNER2.png) -->
 ![logo](https://github.com/codermal7/codermal7/blob/main/PBM02003.JPG?raw=true)
-<h1 align="center">Hi 👋, I'm Anuj Kumar Pandey</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer;ML+Enthusiast;Passionate+Coder" alt="Typing SVG" /></a>
+
 <h3 align="center">A motivated and goal-oriented individual with a passion for technology and entrepreneurship. Skilled in web development, with a focus on problem-solving and a desire to innovate.</h3>
 <br>
 
