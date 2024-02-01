@@ -1,5 +1,5 @@
 <!-- ![logo](https://github.com/codermal7/codermal7/blob/main/GIT%20HUB%20BANNER2.png) -->
-![logo](https://github.com/codermal7/codermal7/blob/main/Anuj%20Flipkart%20Grid.jpeg?raw=true)
+![logo](https://raw.githubusercontent.com/codermal7/codermal7/main/Anuj-Flipkart-Grid.webp)
 
 <h1 align="center">
      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer+👨🏻‍💻;I'm+a+ML+Enthusiast+🤖+🧠;I'm+a+Passionate+Coder+👨‍💻;" />
