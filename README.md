@@ -44,7 +44,7 @@
 
 <br>
 
-<div align="center" style="width: 70%;">
+<div align="center" style="width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
 </div>
 
