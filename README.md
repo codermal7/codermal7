@@ -44,7 +44,7 @@
 
 <br>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
+<p>&nbsp;<img width="100%" src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
 
 <br><br>
 
