@@ -44,13 +44,10 @@
 
 <br>
 
-<p>&nbsp;<img width="70%" margin="auto" src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
-
-
-<br><br>
-<div align="center">
+<div align="center" style="width: 70%;">
   <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
 </div>
+
 
 
 <br><br>
