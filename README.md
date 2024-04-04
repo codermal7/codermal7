@@ -45,6 +45,9 @@
 <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
+
+<br><br>
+
 <img align="right" src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" />
 </p>
  <br><br>
