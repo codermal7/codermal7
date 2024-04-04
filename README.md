@@ -45,15 +45,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 90%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 100%;" />
 </div>
 
-
-
 <br><br>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" style="width: 100%;"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" />
-</p>
  <br><br>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
