@@ -43,14 +43,11 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermal7&show_icons=true&locale=en&layout=compact" alt="codermal7" /></p> -->
 
 <br>
-<!-- 
+
 <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" />
 <img align="right" width="400" src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" />
 </p>
- <br><br>-->
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/langs)](https://githubtrends.io)
+ <br><br>
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
 
