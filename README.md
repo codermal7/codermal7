@@ -49,8 +49,6 @@
 </p>
  <br><br>-->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/langs)](https://githubtrends.io)
-
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)]
 
 <!-- [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true)](https://github.com/codermal7/github-readme-stats) -->
