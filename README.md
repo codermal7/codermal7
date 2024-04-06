@@ -5,7 +5,7 @@
      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Kumar+Pandey;I'm+a+Web+Developer+👨🏻‍💻;I'm+a+ML+Enthusiast+🤖+🧠;I'm+a+Passionate+Coder+👨‍💻;" />
 </h1>
 
-<h3 align="center" style="font-family: 'Roboto', sans-serif;">Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode |DSA+DEV.</h3>
+<h3 align="center" style="font-family: 'Fira+Code', sans-serif;">Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode |DSA+DEV.</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
