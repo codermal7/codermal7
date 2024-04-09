@@ -53,12 +53,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 90%;" />
 </div>
 
 <br><br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" style="width: 100%;"/>
+<img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" style="width: 90%;"/>
 </div>
 
  <br><br>
