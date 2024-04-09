@@ -61,7 +61,7 @@
         <img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak"/>
     </div>
     <div style="display: inline-block;">
-        ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+        [Link to my commits](https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
     </div>
 </div>
 
