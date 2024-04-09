@@ -91,7 +91,7 @@ OLDDD
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" style="width: 40%;" alt="GitHub Trends SVG">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codermal7&theme=react-dark" style="width: 80%;" alt="My GitHub activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codermal7&theme=react-dark" style="width: 60%;" alt="My GitHub activity graph">
 </div>
 
 <!--  <img align="right" src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" /> -->
