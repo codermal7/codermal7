@@ -89,7 +89,7 @@ OLDDD
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codermal7&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/codermal7/github-readme-activity-graph)
 -->
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
     <img src="https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" style="width: 50%;" alt="GitHub Trends SVG">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=codermal7&theme=react-dark" style="width: 50%;" alt="My GitHub activity graph">
 </div>
