@@ -54,8 +54,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 50%;"/>
-    <img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 400;"/>
+    <img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" style="width: 400;"/>
 </div>
 
 
