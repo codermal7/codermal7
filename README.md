@@ -53,12 +53,16 @@
 <br>
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" width="400"/>
-    <img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" width="400"/>
-</div>
-<div style="text-align: center;">
-    <img src="https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" alt="GitHub Trends SVG"/>
+<div>
+    <div style="display: inline-block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7"/>
+    </div>
+    <div style="display: inline-block;">
+        <img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak"/>
+    </div>
+    <div style="display: inline-block;">
+        ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+    </div>
 </div>
 
 
