@@ -9,9 +9,9 @@
 
 ### *`Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.`*
 
-    Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) |
+**    Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) |
     Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy |
-    Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.
+    Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.**
 
 <br>
 
