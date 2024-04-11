@@ -23,14 +23,9 @@
 
 #### 💼 Incoming Software Engineer Intern **@Microsoft**
 #### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
-
-- 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
-
-- 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**
-  
-- 🏗️ Building **CoderArmy.in**
-  
-- 🎓 Ex-Research Intern @ **IIT BHU**
+#### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**
+#### 🏗️ Building **CoderArmy.in**
+#### 🎓 Ex-Research Intern @ **IIT BHU**
 
 - 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
 
