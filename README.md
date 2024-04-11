@@ -16,8 +16,6 @@
 
 <p align="left"> <a href="https://twitter.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/twitter/follow/not_ur_anuj?logo=twitter&style=for-the-badge" alt="not_ur_anuj" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/anuj-kumar-pandey-6151a81b5/" target="_blank"><img src="https://img.shields.io/linkedin/follow/Anuj?logo=linkedin&style=for-the-badge" alt="not_ur_anuj" /></a> </p>
-
 - 🔭 I’m currently working on [dAppFund](https://github.com/codermal7/dAppFund)
 
 - 🌱 I’m currently learning **ReactJS**
