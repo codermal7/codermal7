@@ -1,10 +1,3 @@
-<style>
-  .centered-text {
-    text-align: center;
-    font-size: 18px; /* Adjust the font size as needed */
-  }
-</style>
-
 <!-- ![logo](https://github.com/codermal7/codermal7/blob/main/GIT%20HUB%20BANNER2.png) -->
 ![logo](https://raw.githubusercontent.com/codermal7/codermal7/main/Anuj-Flipkart-Grid.webp)
 
@@ -14,7 +7,7 @@
 
 <!--<p align="center"> Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.</p> -->
 
-<div class="centered-text">
+<div style="text-align: center; font-size: 18px;">
   Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.
 </div>
 
