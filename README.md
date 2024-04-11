@@ -14,7 +14,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermal7&label=Profile%20views&color=0e75b6&style=flat" alt="codermal7" /> </p>
 <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow">
 
-<p align="left"> <a href="https://twitter.com/not_ur_anuj" target="blank"><img src="https://img.shields.io/twitter/follow/not_ur_anuj?logo=twitter&style=for-the-badge" alt="not_ur_anuj" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/anuj-kumar-pandey-6151a81b5/" target="_blank"><img src="https://img.shields.io/twitter/follow/not_ur_anuj?logo=twitter&style=for-the-badge" alt="not_ur_anuj" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/linkedin/follow/Anuj?logo=linkedinr&style=for-the-badge" alt="not_ur_anuj" /></a> </p>
 
 - 🔭 I’m currently working on [dAppFund](https://github.com/codermal7/dAppFund)
 
