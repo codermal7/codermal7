@@ -7,8 +7,6 @@
 
 <p align="center"> Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.</p>
 
-[![Typing SVG](font=Fira+Code&color=FFFFFF&width=10000&lines=Incoming+Software+Engineer+Intern+%40Microsoft+%7C+National+Runner+Up+Flipkart+Grid+5.0+(AIR+2)+%7C+Shortlisted+for+QS+Reimagine+Awards+2023(Globally)%7C+Building+CoderArmy+%7C+Ex-Research+Intern+%40+IIT+BHU+%7C+350%2B+Leetcode+%7C+DSA%2BDEV.)](https://git.io/typing-svg)
-
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
