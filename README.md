@@ -7,7 +7,7 @@
 
 <!--<p align="center"> Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.</p> -->
 
-<p align="center" style="font-size: 18px;">Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.</p>
+<p align="center" style="font-size: 100px;">Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.</p>
 
 
 <!-- h3 align="center">
