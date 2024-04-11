@@ -21,14 +21,6 @@
 
 <p align="left"> <a href="https://instagram.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 
-- 🔭 I’m currently working on [dAppFund](https://github.com/codermal7/dAppFund)
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 📫 How to reach me **pandeyanuj1804@gmail.com**
-
-- 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
-
 
 - 💼 Incoming Software Engineer Intern **@Microsoft**
 
@@ -39,6 +31,8 @@
 - 🏗️ Building **CoderArmy.in**
   
 - 🎓 Ex-Research Intern @ **IIT BHU**
+  
+- 📫 How to reach me **pandeyanuj1804@gmail.com**
 
 - 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
 
