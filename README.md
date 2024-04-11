@@ -26,10 +26,12 @@
 #### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**
 #### 🏗️ Building **CoderArmy.in**
 #### 🎓 Ex-Research Intern @ **IIT BHU**
+#### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
+#### 📫 Reach me at **pandeyanuj1804@gmail.com**
 
-- 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
-
+<!-- 
 - 📫 How to reach me **pandeyanuj1804@gmail.com**
+-->
 
 
 <!-- <br>
