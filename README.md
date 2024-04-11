@@ -107,7 +107,7 @@ OLDDD
 -->
 
 <!-- [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true)](https://github.com/codermal7/github-readme-stats) -->
-<br><br>
+<br>
 
 <!--
 <div style="display: flex; justify-content: space-between;">
