@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://instagram.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 
-### 💼 Incoming Software Engineer Intern **@Microsoft**
+#### 💼 Incoming Software Engineer Intern **@Microsoft**
 
 - 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
 
