@@ -21,7 +21,7 @@
 
 <p align="left"> <a href="https://instagram.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 
-
+<br>
 
 
 - 🔭 I’m currently working on [dAppFund](https://github.com/codermal7/dAppFund)
