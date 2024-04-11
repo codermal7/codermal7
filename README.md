@@ -15,9 +15,13 @@
 
 <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow">
 
+<p align="left"> <a href="https://leetcode.com/codermal7/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="codermal7"/></a> </p>
+
 <p align="left"> <a href="https://www.linkedin.com/in/anuj-kumar-pandey-6151a81b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anuj" /></a> </p>
 
 <p align="left"> <a href="https://instagram.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
+
+
 
 
 - 🔭 I’m currently working on [dAppFund](https://github.com/codermal7/dAppFund)
