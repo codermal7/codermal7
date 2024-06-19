@@ -116,7 +116,8 @@ OLDDD
 
 
 
-IMPORTANT GITHUB CHART
+<!-- IMPORTANT GITHUB CHART -->
+
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codermal7&theme=react-dark)](https://github.com/codermal7/) 
 
 <!--  <img align="right" src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" /> -->
