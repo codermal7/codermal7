@@ -10,7 +10,7 @@
 <br>
 
 <!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
-<img align="right" alt="Coding" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true">
+<img align="right" alt="Coding" width="600" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermal7&label=Profile%20views&color=0e75b6&style=flat" alt="codermal7" /> </p> -->
 
