@@ -9,13 +9,6 @@
 
 <br>
 
-<details>
-  <summary>The title of the image group</summary>
-  <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5622AQF71SDZVEKWdQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1709272333601?
-  <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5622AQF71SDZVEKWdQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1709272333601?
-  <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5622AQF71SDZVEKWdQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1709272333601?
-</details>
-
 <!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
 <!--  <img align="right" alt="Coding" width="500" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true">  -->
 
