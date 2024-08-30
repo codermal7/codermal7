@@ -7,7 +7,7 @@
 
 <!--  <p align="center"> Incoming Software Engineer Intern @Microsoft | National Runner Up Flipkart Grid 5.0 (AIR 2) | Shortlisted for QS Reimagine Awards 2023(Globally)| Building CoderArmy | Ex-Research Intern @ IIT BHU | 350+ Leetcode | DSA+DEV.</p>  -->
 
-
+<br>
 
 <!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
 <!--  <img align="right" alt="Coding" width="500" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true">  -->
