@@ -24,21 +24,29 @@
 
 <ul>
      <li>
-          #### 💼 Incoming Software Engineer **@Microsoft**</li>
+     #### 💼 Incoming Software Engineer **@Microsoft**
+     </li>
      <li>
-          #### 💼 SWE Intern **@Microsoft'24**</li>
+     #### 💼 SWE Intern **@Microsoft'24**
+     </li>
      <li>
-          #### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)</li>
+          #### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
+     </li>
      <li>
-          #### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**</li>
+          #### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**
+     </li>
      <li>
-          #### 🏗️ Building **CoderArmy.in**</li>
+          #### 🏗️ Building **CoderArmy.in**
+     </li>
      <li>
-          #### 🎓 Ex-Research Intern @ **IIT BHU**</li>
+          #### 🎓 Ex-Research Intern @ **IIT BHU**
+     </li>
      <li>
-          #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a></li>
+          #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
+     </li>
      <li>
-          #### 📫 Reach out to me at **pandeyanuj1804@gmail.com**</li>
+          #### 📫 Reach out to me at **pandeyanuj1804@gmail.com**
+     </li>
 </ul>
 
 #### 📫 Reach out to me at **pandeyanuj1804@gmail.com**
