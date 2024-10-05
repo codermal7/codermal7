@@ -29,11 +29,8 @@
 #### 🏗️ Building **CoderArmy.in**
 #### 🎓 Ex-Research Intern @ **IIT BHU**
 #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
-#### 📫 Reach out to me at **pandeyanuj1804@gmail.com**  
-
+#### 📫 Reach out to me at **pandeyanuj1804@gmail.com**
 </div>
-
-####  
 
 
 <!-- 
@@ -56,11 +53,12 @@
 <br>
 -->
 
-<ul>
-     <li> </li>
-</ul>
 
-<h2 align="left">🤝 Connect with Me</h2>
+      </li>
+
+<ul>
+     <li><h2 align="left">🤝 Connect with Me</h2></li>
+</ul>
 
 Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
 
