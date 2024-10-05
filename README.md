@@ -56,7 +56,16 @@
 <br>
 -->
 
-<br>
+## 🤝 Connect with Me
+
+Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/not_ur_anuj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-kumar-pandey-6151a81b5/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_ur_anuj/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/codermal7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://anujkumarpandey.com/)
+
 
 <h2 align="left">Languages and Tools:</h2>
 
