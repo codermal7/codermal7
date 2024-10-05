@@ -56,7 +56,11 @@
 <br>
 -->
 
-<br/>
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
+
 <h2 align="left">🤝 Connect with Me</h2>
 
 Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
