@@ -12,6 +12,7 @@
 <!--  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
 <!--  <img align="right" alt="Coding" width="500" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true">  -->
 
+<div>
 <img align="right" alt="Coding" width="400" src="https://github.com/codermal7/codermal7/blob/main/microsoft_gif.gif?raw=true">
 <!--  <img align="right" alt="Coding" width="400" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true"> -->
 
@@ -37,6 +38,7 @@
 #### 🎓 Ex-Research Intern @ **IIT BHU**
 #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
 #### 📫 Reach me at **pandeyanuj1804@gmail.com**
+</div>
 
 
 <!-- 
