@@ -52,7 +52,7 @@
 <br>
 -->
 
-<div style="margin-top: 10px;"></div>
+<div style="margin-top: 10rem;"></div>
 
 <h2 align="left">🤝 Connect with Me</h2>
 
