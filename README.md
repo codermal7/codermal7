@@ -53,7 +53,7 @@
 -->
 
 
-<div style="margin-top: 100px"></div>
+<div style="padding-top: 100px"></div>
 
 <h2 align="left">🤝 Connect with Me</h2>
 
