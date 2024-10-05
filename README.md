@@ -106,13 +106,13 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 
 ## 📊 GitHub Stats:
 <div align="center">
-     ![](https://github-readme-stats.vercel.app/api?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
 <div align="center">
-     ![](https://github-readme-streak-stats.herokuapp.com/?user=codermal7&theme=chartreuse-dark&hide_border=false)<br/>
+      ![](https://github-readme-streak-stats.herokuapp.com/?user=codermal7&theme=chartreuse-dark&hide_border=false)<br/>
 <div>
 <div align="center">
-     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div style="display: flex; justify-content: space-between;">
