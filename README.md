@@ -66,6 +66,7 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA015.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/codermal7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://anujkumarpandey.com/)
 
+<br>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -104,6 +105,7 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermal7&show_icons=true&locale=en&layout=compact" alt="codermal7" /></p> -->
 
+<br>
 
 ## 📊 GitHub Stats:
 <div align="center">
