@@ -41,10 +41,10 @@
 -->
 
 
-<br>
+<!-- <br>
 <img align="right" width="400" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow"> -->
 
-
+<!--   CONNNECTTTT WITHHHH MEEEE PROFILESSSSS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/not_ur_anuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_ur_anuj" height="30" width="40" /></a>
@@ -54,7 +54,7 @@
 <a href="https://auth.geeksforgeeks.org/user/codermal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codermal7" height="30" width="40" /></a>
 </p>
 <br>
-
+-->
 
 <br>
 
