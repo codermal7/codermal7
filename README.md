@@ -57,8 +57,8 @@
 -->
 
 <ul>
-<li>Line 1</li>
-<li>Line 2</li>
+<li> </li>
+<li> </li>
 </ul>
 
 <h2 align="left">🤝 Connect with Me</h2>
