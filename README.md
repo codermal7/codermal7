@@ -22,14 +22,17 @@
 
 <!--  [![LeetCode user codermal7](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcodermal7&logo=leetcode&logoColor=yellow)](https://leetcode.com/codermal7/)  -->
 
-#### 💼 Incoming Software Engineer **@Microsoft**
-#### 💼 SWE Intern **@Microsoft'24**
-#### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
-#### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**
-#### 🏗️ Building **CoderArmy.in**
-#### 🎓 Ex-Research Intern @ **IIT BHU**
-#### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
-#### 📫 Reach out to me at **pandeyanuj1804@gmail.com**
+<ul>
+     <li> #### 💼 Incoming Software Engineer **@Microsoft**</li>
+     <li> #### 💼 SWE Intern **@Microsoft'24**</li>
+     <li> #### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)</li>
+     <li> #### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**</li>
+     <li> #### 🏗️ Building **CoderArmy.in**</li>
+     <li> #### 🎓 Ex-Research Intern @ **IIT BHU**</li>
+     <li> #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a></li>
+     <li> #### 📫 Reach out to me at **pandeyanuj1804@gmail.com**</li>
+</ul>
+
 </div>
 
 
@@ -53,11 +56,7 @@
 <br>
 -->
 
-
-
-<ul>
-     <li><h2 align="left">🤝 Connect with Me</h2></li>
-</ul>
+<h2 align="left">🤝 Connect with Me</h2>
 
 Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
 
