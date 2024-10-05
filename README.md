@@ -27,7 +27,8 @@
 
 <p align="left"> <a href="https://instagram.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 
-#### 💼 Incoming Software Engineer Intern **@Microsoft**
+#### 💼 Incoming Software Engineer **@Microsoft**
+#### 💼 SWE Intern **@Microsoft'24**
 #### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
 #### 🏅 Shortlisted for **QS Reimagine Awards 2023(Globally)**
 #### 🏗️ Building **CoderArmy.in**
