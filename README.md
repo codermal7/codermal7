@@ -30,6 +30,7 @@
 #### 🎓 Ex-Research Intern @ **IIT BHU**
 #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
 #### 📫 Reach me at **pandeyanuj1804@gmail.com**
+####
 </div>
 
 <!-- 
@@ -51,10 +52,6 @@
 </p>
 <br>
 -->
-
-
-
-<div style="padding-top: 100px"></div>
 
 <h2 align="left">🤝 Connect with Me</h2>
 
