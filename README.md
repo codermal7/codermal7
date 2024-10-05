@@ -153,8 +153,6 @@ OLDDD
 -->
 
 <!-- [![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true)](https://github.com/codermal7/github-readme-stats) -->
-<br><br>
-
 <!--
 <div style="display: flex; justify-content: space-between;">
     <img src="https://api.githubtrends.io/user/svg/codermal7/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" style="width: 50%;" alt="GitHub Trends SVG">
@@ -162,10 +160,11 @@ OLDDD
 -->
 
 
-
 <!-- IMPORTANT GITHUB CHART -->
 
 <!--  [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codermal7&theme=react-dark)](https://github.com/codermal7/) -->
+
+<br>
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codermal7&theme=chartreuse-dark)](https://github.com/codermal7/) 
 
