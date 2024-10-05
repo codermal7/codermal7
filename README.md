@@ -101,7 +101,6 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 ![Agile Project Management](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermal7&show_icons=true&locale=en&layout=compact" alt="codermal7" /></p> -->
-<br>
 
 
 ## 📊 GitHub Stats:
