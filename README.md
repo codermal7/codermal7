@@ -106,20 +106,25 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 
 ## 📊 GitHub Stats:
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true"/> <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true"/> <br/>
 </div>
+<br/>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codermal7&theme=chartreuse-dark&hide_border=false"/> <br/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codermal7&theme=chartreuse-dark&hide_border=false"/> <br/>
 <div>
+     <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermal7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+<!--
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=codermal7&show_icons=true&locale=en" alt="codermal7" style="width: 50%;"/>
     <!-- <img src="https://streak-stats.demolab.com?user=codermal7&theme=great-gatsby" alt="GitHub Streak" style="width: 49%;"/>
      -->
+<!--
 </div>
+-->
 
 
 
