@@ -27,7 +27,6 @@
 
 <p align="left"> <a href="https://instagram.com/not_ur_anuj" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
 
-<details close>
 #### 💼 Incoming Software Engineer **@Microsoft**
 #### 💼 SWE Intern **@Microsoft'24**
 #### 🏆 National Runner Up **Flipkart Grid 5.0** (AIR 2)
@@ -36,7 +35,7 @@
 #### 🎓 Ex-Research Intern @ **IIT BHU**
 #### 🌐 Checkout my website <a href="https://anujkumarpandey.com/" target="_blank">Click Here</a>
 #### 📫 Reach me at **pandeyanuj1804@gmail.com**
-</details>
+
 <!-- 
 - 📫 How to reach me **pandeyanuj1804@gmail.com**
 -->
@@ -56,7 +55,7 @@
 </p>
 <br>
 -->
-<br>
+<p></p>
 ## 🤝 Connect with Me
 
 Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
