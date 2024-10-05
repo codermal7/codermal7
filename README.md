@@ -63,7 +63,7 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/not_ur_anuj/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-kumar-pandey-6151a81b5/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_ur_anuj/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/codermal7/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA015.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/codermal7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://anujkumarpandey.com/)
 
 
