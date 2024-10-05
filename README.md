@@ -32,10 +32,6 @@
 #### 📫 Reach me at **pandeyanuj1804@gmail.com**
 </div>
 
-
-**
-
-
 <!-- 
 - 📫 How to reach me **pandeyanuj1804@gmail.com**
 -->
@@ -55,13 +51,9 @@
 </p>
 <br>
 -->
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
-## 🤝 Connect with Me
+
+<h2 align="left">🤝 Connect with Me</h2>
 
 Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
 
