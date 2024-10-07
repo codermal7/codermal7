@@ -15,6 +15,10 @@
 
 <div>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/codermal7/codermal7/blob/main/microsoft_gif.gif?raw=true"> -->
+<p style="padding-top: 20px;">
+    <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/codermal7/codermal7/refs/heads/main/programming.webp">
+</p>
+
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/codermal7/codermal7/refs/heads/main/programming.webp">
 
