@@ -55,7 +55,9 @@
 <br>
 -->
 
-<div style="width:100%;height:0;padding-bottom:79%;position:relative;"><iframe src="https://giphy.com/embed/93UOscPyDH8cdRfSaT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ProductDock-programming-rules-productdock-93UOscPyDH8cdRfSaT">via GIPHY</a></p>
+![Programming Rules](https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif)
+
+[via GIPHY](https://giphy.com/gifs/ProductDock-programming-rules-productdock-93UOscPyDH8cdRfSaT)
 
 <br>
 
