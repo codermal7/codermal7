@@ -16,7 +16,7 @@
 <div>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/codermal7/codermal7/blob/main/microsoft_gif.gif?raw=true"> -->
 
-<div style="height: 2rem;"></div>
+<div style="height: 10rem;"></div>
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif">
 
