@@ -15,8 +15,13 @@
 
 <div>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/codermal7/codermal7/blob/main/microsoft_gif.gif?raw=true"> -->
+
+<div style="height: 2rem;"></div>
+
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif">
-     
+
+<!-- 
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif">     
 <!--  <img align="right" alt="Coding" width="400" src="https://github.com/codermal7/codermal7/blob/main/final_image_fina_ff%20(1).png?raw=true"> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermal7&label=Profile%20views&color=0e75b6&style=flat" alt="codermal7" /> </p> -->
