@@ -108,7 +108,6 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Agile Project Management](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Scope Script](https://img.shields.io/badge/-Scope%20Script-lightgrey?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxMCAxMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNGRkYiLz48dGV4dCB4PSIwIiB5PSI4IiBmb250LXNpemU9IjYuNSIgZmlsbD0iIzAwMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj5TQ08gUEU8L3RleHQ+PC9zdmc+)
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codermal7&show_icons=true&locale=en&layout=compact" alt="codermal7" /></p> -->
